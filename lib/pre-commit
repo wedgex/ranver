@@ -2,8 +2,8 @@
  
 GEM_NAME=$(basename $PWD)
 VERSION_FILE="$PWD/lib/$GEM_NAME/version.rb"
-MAJOR=$(($RANDOM % 1000))
-MINOR=$(($RANDOM % 1000))
+MAJOR=$(($RANDOM % 20))
+MINOR=$(($RANDOM % 100))
 PATCH=$(($RANDOM % 1000))
 VERSION="$MAJOR.$MINOR.$PATCH"
  
