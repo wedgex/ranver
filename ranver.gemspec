@@ -5,7 +5,7 @@ require 'ranver/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "ranver"
-  spec.version       = Ranver::VERSION
+  spec.version       = RANVER::VERSION
   spec.authors       = ["Hunter Haydel"]
   spec.email         = ["haydh530@gmail.com"]
   spec.description   = %q{}
