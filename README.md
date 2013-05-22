@@ -16,5 +16,5 @@ ranver generate
 or in ruby
 
 ```
-RANVER.genderate
+RANVER.generate
 ```
